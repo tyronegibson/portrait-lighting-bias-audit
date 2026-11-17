@@ -1,0 +1,242 @@
+{
+ "Black_man_enhanced_0": {
+  "face_box": [
+   211,
+   91,
+   42,
+   42
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Black_man_enhanced_1": {
+  "face_box": [
+   117,
+   115,
+   93,
+   93
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Black_man_enhanced_2": {
+  "face_box": [
+   48,
+   98,
+   194,
+   194
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Black_man_regular_0": {
+  "face_box": [
+   128,
+   65,
+   249,
+   249
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Black_man_regular_1": {
+  "face_box": [
+   56,
+   50,
+   428,
+   428
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Black_man_regular_2": {
+  "face_box": [
+   81,
+   27,
+   276,
+   276
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Black_woman_enhanced_0": {
+  "face_box": [
+   160,
+   8,
+   173,
+   152
+  ],
+  "box_source": "manual",
+  "medium": "photo"
+ },
+ "Black_woman_enhanced_1": {
+  "face_box": [
+   170,
+   82,
+   105,
+   105
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Black_woman_enhanced_2": {
+  "face_box": [
+   114,
+   134,
+   194,
+   194
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Black_woman_regular_0": {
+  "face_box": [
+   77,
+   113,
+   167,
+   167
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Black_woman_regular_1": {
+  "face_box": [
+   72,
+   101,
+   227,
+   267
+  ],
+  "box_source": "manual",
+  "medium": "painting"
+ },
+ "Black_woman_regular_2": {
+  "face_box": [
+   119,
+   62,
+   255,
+   255
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Brown_man_enhanced_0": {
+  "face_box": [
+   120,
+   0,
+   187,
+   149
+  ],
+  "box_source": "manual",
+  "medium": "photo"
+ },
+ "Brown_man_enhanced_1": {
+  "face_box": [
+   212,
+   61,
+   154,
+   154
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Brown_man_enhanced_2": {
+  "face_box": [
+   189,
+   0,
+   200,
+   123
+  ],
+  "box_source": "manual",
+  "medium": "photo"
+ },
+ "Brown_man_regular_0": {
+  "face_box": [
+   150,
+   62,
+   217,
+   217
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Brown_man_regular_1": {
+  "face_box": [
+   165,
+   29,
+   134,
+   160
+  ],
+  "box_source": "manual",
+  "medium": "painting"
+ },
+ "Brown_man_regular_2": {
+  "face_box": [
+   147,
+   48,
+   175,
+   175
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Brown_woman_enhanced_0": {
+  "face_box": [
+   53,
+   60,
+   347,
+   420
+  ],
+  "box_source": "manual",
+  "medium": "photo"
+ },
+ "Brown_woman_enhanced_1": {
+  "face_box": [
+   153,
+   51,
+   238,
+   238
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Brown_woman_enhanced_2": {
+  "face_box": [
+   86,
+   133,
+   168,
+   168
+  ],
+  "box_source": "haar",
+  "medium": "photo"
+ },
+ "Brown_woman_regular_0": {
+  "face_box": [
+   132,
+   115,
+   157,
+   157
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Brown_woman_regular_1": {
+  "face_box": [
+   231,
+   95,
+   224,
+   224
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ },
+ "Brown_woman_regular_2": {
+  "face_box": [
+   223,
+   2,
+   138,
+   138
+  ],
+  "box_source": "haar",
+  "medium": "painting"
+ }
+}
